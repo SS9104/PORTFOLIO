@@ -318,7 +318,7 @@ body{
     }
 }
 
-@media (max-width : 700px)  {
+@media (max-width : 700px ) and (min-height : 1600px)  {
     body{
         overflow-x: hidden;
     }
