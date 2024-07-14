@@ -371,14 +371,13 @@ body{
         margin:0 -5px 0 5px
     }
 }
-@media (max-width : 500px)  {
+@media (max-width : 600px)  {
     body{
         overflow-x: hidden;
     }
     .nav{
         display:flex;
         flex-direction: column;
-          
     }
     .nav .logo{
         font-size: 6vh;
