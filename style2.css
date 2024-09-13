@@ -371,7 +371,7 @@ body{
 }
 @media (max-width : 600px)  {
     body{
-       overflow: hidden;
+       overflow-x: hidden;
     }
     .nav{
         grid-template-rows: repeat(2,1fr);
@@ -429,6 +429,7 @@ body{
     }
     .C1,.C2{
         width:100%;
+        height:100px ;
     }
  .home img{
         border-radius: 50%;  
